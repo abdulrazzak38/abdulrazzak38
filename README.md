@@ -1,0 +1,5 @@
+- Hi, I’m Abdul Razzak Patel(@abdulrazzak38).
+-I’m interested in Computer Science and Finance.
+-I’m currently learning about Open Source Contribution and DSA.
+-I,m currently studying Electronics And Communication at BITS-Pilani, Hyderabad Campus.
+-How to reach me- abdulrazzak38@gmail.com
